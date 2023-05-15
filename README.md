@@ -1,2 +1,6 @@
 # memristor-based-LSTM-networks
-My PhD work
+
+
+
+
+#This is my PhD work
